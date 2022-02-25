@@ -16,7 +16,9 @@ library(dplyr)
 1. [2 marks] What is the problem your are addressing with these data? State the question you are trying
 to answer and let us know what type of question this is in terms of the PPDAC framework.
 
-The problem we are addressing with this data is the estimation of obesity levels based on eating habits and physical condition. We are trying answer the question of whether there are specific factors within eating habits and physical conditions that leads to a higher levels of obesity. Some of these factors include frequent consumption of high caloric food, number of main meals, consumption of water daily, physical activity frequency, and transportation used. This question is a causative/etiologic question. 
+The problem we are addressing with this data is the estimation of obesity levels based on eating habits and physical condition. We are trying answer the question 
+of whether there are specific factors within eating habits and physical conditions that leads to a higher levels of obesity. 
+Some of these factors include frequent consumption of high caloric food, number of main meals, consumption of water daily, physical activity frequency, and transportation used. This question is a causative/etiologic question. 
 
 
 2. [2 marks] What is the target population for your project? Why was this target chosen i.e., what was
